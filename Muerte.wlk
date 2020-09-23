@@ -1,7 +1,7 @@
 object laMuerte {
 	
 	method atenuar(unasCelulas) {
-		// NO HCE NADA
+		// NO HACE NADA
 	}
 	
 	method fueCurada() {
